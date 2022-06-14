@@ -1,0 +1,27 @@
+ .header{
+  min-height: 100px;
+  background-color: red;
+  
+ }
+ .container{
+    overflow:hidden ;
+    border: 10px solid yellow;
+ }
+ .contact{
+  min-height: 200px;
+  background-color: green;
+  width: 60%;
+  float:left ;
+ }
+ .blog{
+  min-height: 200px;
+  background-color: blue;
+  width: 40%;
+  float:right;
+ }
+ .footer{
+  min-height: 100px;
+  background-color: black;
+  clear: ;
+
+ }
